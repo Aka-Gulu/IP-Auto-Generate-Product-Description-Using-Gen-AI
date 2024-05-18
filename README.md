@@ -1,9 +1,11 @@
 # Leveraging Machine Learning to Generate Product Descriptions in E-Commerce
 
-## Poster & Video
+## Poster, Video, and Slides
 [Informs Poster](https://drive.google.com/file/d/1yekXjOYnutCOly8biY2lJDNcpdmfsBSC/view?usp=sharing) 
 
 [Video link](https://www.youtube.com/watch?v=-NZrAbjYpI0)
+
+[Slides link](https://drive.google.com/file/d/116Z8WlMbDiDxIqi1Ipx5Bb_vrOMTbMxJ/view?usp=sharing)
 
 ## Introduction
 This project aims to tackle the challenge of automating online retail product descriptions using state-of-the-art machine learning models. We collaborated with a nationwide grocery store chain in the US to improve the quality and efficiency of product listings on their online platform. Our solution focuses on two main tasks: capturing information from product images and refining auto-generated product descriptions. The deployment of these models in a scalable Azure pipeline demonstrates significant potential for reducing operational costs and enhancing customer satisfaction.
