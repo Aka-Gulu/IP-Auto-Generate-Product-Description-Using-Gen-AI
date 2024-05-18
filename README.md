@@ -33,7 +33,7 @@ An `Azure pipeline` was developed to automate the entire process:
 - **Blob Storage:** Generated content and scores are saved in CSV files.
 
 ### 4. Scoring
-We utilized `Large Language Models (LLMs)` to score the generated results based on relevance, completeness, readability, and confidence. The scoring algorithm demonstrated an increase in average quality score by more than 63% compared to vendor-provided descriptions.
+We utilized `Large Language Models (LLMs)` to score the generated results based on relevance, completeness, readability, and confidence. The scoring algorithm demonstrated an increase in average quality score by more than 76% compared to vendor-provided descriptions.
 
 ## Results
 - **100% high-quality product descriptions**
