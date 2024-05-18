@@ -14,7 +14,7 @@ This project aims to tackle the challenge of automating online retail product de
 - **Scoring:** Measure the generated text based on relevance, completeness, readability, and confidence using a scoring model.
 
 ## Data
-The dataset provided by a major grocery store chain comprises 309,826 unique products spanning diverse categories. The original datasets cannot be shared because of Non-Disclosure Agreement.
+The dataset provided by a major grocery store chain comprises 309,826 unique products spanning diverse categories. The original datasets cannot be shared because of `Non-Disclosure Agreement`.
 
 ## Methodology
 ### 1. Analytics Problem Framing
